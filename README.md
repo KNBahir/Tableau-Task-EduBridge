@@ -25,7 +25,7 @@ Steps to be followed:
 
 A dialogue box will appear for Calculation
     
-  Step 5: In that dialogue box we can name it as we wanted and the syntax for the calculation is
+  Step 5: In that dialogue box we can name it as Employee Id (Id) and the syntax for the calculation is
   
       LEFT('0000000',( 7 - LEN(STR([Emp id]))))
       +
