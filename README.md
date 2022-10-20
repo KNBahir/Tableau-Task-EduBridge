@@ -1,6 +1,8 @@
 # Tableau-Task-EduBridge
 Scenario Based Questions - EduBridge
 
+**Dataset for this Task is avaiable here as in Excel file formate and also in CSV file formate** which is named as Arun's Client.
+
 Steps to be followed:
 
   Step 1: Open tableau's new version and Import the excel dataset which we are going to workout
